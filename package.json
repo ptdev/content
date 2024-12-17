@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.14.1592",
-    "@nuxtjs/mdc": "npm:@nuxtjs/mdc-edge@0.11.2-28900083.b7dc03e",
+    "@nuxtjs/mdc": "npm:@nuxtjs/mdc-edge@0.11.2-28905676.32225ae",
     "@sqlite.org/sqlite-wasm": "3.47.2-build1",
     "better-sqlite3": "^11.7.0",
     "c12": "^2.0.1",
@@ -117,7 +117,7 @@
     "release-it": "^17.10.0",
     "vitest": "^2.1.8",
     "vue-tsc": "^2.1.10",
-    "wrangler": "^3.96.0"
+    "wrangler": "^3.97.0"
   },
   "resolutions": {
     "@nuxt/content": "workspace:*",
